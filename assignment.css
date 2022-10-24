@@ -1,0 +1,52 @@
+.div-container{
+    border: 1px solid white;
+    height: 10vh;
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    border: 1px solid white;
+    display: flex;
+    height:70vh;
+    justify-content: space-between;
+}
+.sidenav{
+    border: 1px solid white;
+    width: 500px;
+   padding: 20px;
+    background-color: palevioletred;
+    text-align: center;
+    color: white;
+   
+}
+.main-content{
+    border: 1px solid white;
+    width: 400px;
+    background-color: greenyellow;
+    text-align: center;
+    color: white;
+   padding: 20px;
+}
+.last-nav{
+    border: 1px solid white;
+    width: 500px;
+    background-color: darkorange;
+    text-align: center;
+    color: white;
+    /* align-items: center;
+    justify-content: center;
+    display: flex; */
+    padding: 20px;
+}
+.div-foot{
+    border: 1px solid white;
+    height: 10vh;
+    background-color: aqua;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
